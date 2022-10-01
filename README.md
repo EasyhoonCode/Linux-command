@@ -1,3 +1,0 @@
-# Linux-command
-
-	Hello world!
